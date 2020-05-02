@@ -1,0 +1,20 @@
+.CalcKeyboard {
+    width: 100%;
+    max-width: 500px;
+    background: #eee;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.btn {
+    border: 1px solid black;
+    padding: 1rem;
+    margin: .25rem;
+    flex-basis: 25%;
+    text-align: center;
+}

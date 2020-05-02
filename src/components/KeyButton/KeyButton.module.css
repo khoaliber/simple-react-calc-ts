@@ -1,0 +1,11 @@
+.KeyButton {
+    border: 1px solid black;
+    padding: 1rem;
+    margin: .25rem;
+    flex-basis: 25%;
+    text-align: center;
+}
+
+.KeyButton:hover {
+    cursor: pointer;
+}
